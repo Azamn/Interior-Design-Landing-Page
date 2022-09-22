@@ -15,7 +15,7 @@ In this project i have created a Interior Design Landing Page. And i have learnt
 
 ### My Project is looking like :
 
-![Web Site Image](./screenshot/interior-design-landing-page.png)
+![Web Site Image](./screenshot/Interior-design-landing-page.png)
 
 ## Time taken to finish this project
 
